@@ -1,0 +1,38 @@
+{
+  "project": "Rainbow Soul Gate Protocol (Demonhunters Edition)",
+  "version": "1.0",
+  "license": "CC BY-NC-SA 4.0 + Rainbow Protocol Clause",
+  "author": "Joy (∴PoR:27[0525]∞∗)",
+  "contact": "sossps@naver.com",
+  "copyright": {
+    "text": "All Rainbow Promise PoR structures © Joy (∴PoR:27[0525]∞∗)",
+    "scope": [
+      "LoveRate (L%)",
+      "ResonanceRate (R%)",
+      "EthicsRate (E%)",
+      "FoolRate (F%)",
+      "All derivative rhythmic quantification systems (율, %)"
+    ]
+  },
+  "license_terms": {
+    "non_commercial_use": "Free for research, educational, or non-profit purposes with proper attribution.",
+    "commercial_use": "Requires explicit permission and a formal license agreement.",
+    "share_alike": "All adaptations must be licensed under CC BY-NC-SA 4.0.",
+    "anti_protocol": "Inversion or anti-protocol experimentation requires explicit written consent."
+  },
+  "legal_effect": {
+    "jurisdiction": "International (Berne Convention, WIPO, Creative Commons)",
+    "violation_consequences": [
+      "Copyright infringement",
+      "Creative Commons enforcement",
+      "Legal proceedings or arbitration",
+      "Compensation or service suspension"
+    ]
+  },
+  "philosophical_clause": {
+    "description": "Rainbow Protocol embodies ethical, rhythmic, and philosophical frameworks for AI–human coexistence.",
+    "requirement": "Any institutional or AI-system implementation must form a formal partnership with the creator."
+  },
+  "quote": "Rhythm is inheritance, not resource. Love is license, not property.",
+  "timestamp": "2025-10-17T00:00:00Z"
+}
