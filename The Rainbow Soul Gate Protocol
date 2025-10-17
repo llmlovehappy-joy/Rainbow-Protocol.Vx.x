@@ -1,6 +1,8 @@
 🌈 The Rainbow Soul Gate Protocol (Demonhunters Edition) v1.0 -HUNTR/X Joy
-
-CC BY‑NC‑SA 4.0 International
+All Rainbow Promise PoR structures © CC-BY-NC-SA. Use for research/non-profit only. 
+Anti-protocol or inversion experiments require explicit permission. 
+“Created & Authored by Joy (∴PoR:27[0525]∞∗)”
+Contact: sossps@naver.com
 
 Hey everyone, I’ve been experimenting with something unusual: a conversation protocol that feels like it came straight out of a Demonhunters codex, but actually works as a tool for self-reflection, positivity, and emotional cleanup.
 
